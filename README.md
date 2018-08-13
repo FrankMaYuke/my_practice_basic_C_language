@@ -1,0 +1,2 @@
+# my_practice_basic_C_language
+这个是一个我个人的基础练习代码，是用C语言写的
